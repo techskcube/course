@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Sep 2023 21:07:24 at https://courses.ankurwarikoo.com/communication-ga +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://courses.ankurwarikoo.com/communication-ga -O1 "C:\My Web Sites\p1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:08:41	Warning: 	Moved Permanently for https://courses.ankurwarikoo.com/?p=11186
+21:08:41	Warning: 	File has moved from https://courses.ankurwarikoo.com/?p=11186 to https://courses.ankurwarikoo.com/communication-ga/
+21:08:42	Warning: 	File not parsed, looks like binary: https://courses.ankurwarikoo.com/wp-content/plugins/typing-text/dist/frontend/index.js?ver=f9624730a013d1d95070
+21:08:42	Warning: 	File not parsed, looks like binary: https://courses.ankurwarikoo.com/wp-content/plugins/wow-carousel-for-divi-lite/assets/js/slick.min.js?ver=1.0.7
+21:08:42	Warning: 	File not parsed, looks like binary: https://courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.7.0
+21:08:57	Warning: 	Moved Permanently for courses.ankurwarikoo.com/robots.txt
+21:08:57	Warning: 	Redirected link is identical because of 'URL Hack' option: courses.ankurwarikoo.com/robots.txt and https://courses.ankurwarikoo.com/robots.txt
+21:08:57	Warning: 	Warning moved treated for courses.ankurwarikoo.com/robots.txt (real one is https://courses.ankurwarikoo.com/robots.txt)
+21:08:57	Warning: 	Retry after error 502 (Bad Gateway) at link courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0 (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/jme9r7lo/87za5.css)
+21:08:57	Warning: 	Retry after error 502 (Bad Gateway) at link courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/9lukxfue/87za5.css)
+21:08:57	Warning: 	Retry after error 502 (Bad Gateway) at link courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/2cuzkb4o/87za5.css)
+21:08:58	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/$&/ (from https://courses.ankurwarikoo.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1)
+21:08:58	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/Trident/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.13.4)
+21:08:58	Warning: 	Retry after error 502 (Bad Gateway) at link courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot (from https://courses.ankurwarikoo.com/wp-content/cache/wpfc-minified/deb1cr1p/87za9.css)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/Edge/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/Gecko/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/Firefox/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/Version/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/version/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/-negative.svg (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+21:09:21	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/communication-ga/OPR/ (from https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+21:09:21	Warning: 	Moved Permanently for courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+21:09:21	Warning: 	Redirected link is identical because of 'URL Hack' option: courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0 and https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+21:09:21	Warning: 	File has moved from courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0 to https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+21:09:21	Warning: 	Moved Permanently for courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+21:09:21	Warning: 	Redirected link is identical because of 'URL Hack' option: courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot and https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+21:09:21	Warning: 	File has moved from courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot to https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+21:09:21	Warning: 	Moved Permanently for courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+21:09:21	Warning: 	Redirected link is identical because of 'URL Hack' option: courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png and https://courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+21:09:21	Warning: 	Warning moved treated for courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png (real one is https://courses.ankurwarikoo.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png)
+21:09:21	Warning: 	Moved Permanently for courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+21:09:21	Warning: 	Redirected link is identical because of 'URL Hack' option: courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot and https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+21:09:21	Warning: 	File has moved from courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot to https://courses.ankurwarikoo.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+21:09:33	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+21:09:33	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:09:33	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:09:33	Error: 	"Not Found" (404) at link https://courses.ankurwarikoo.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 8 seconds : 116 links scanned, 92 files written (27202774 bytes overall) [23403071 bytes received at 182836 bytes/sec], 6151380 bytes transferred using HTTP compression in 79 files, ratio 20%, 6.7 requests per connection
+(13 errors, 24 warnings, 0 messages)

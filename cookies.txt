@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+courses.ankurwarikoo.com	TRUE	/	FALSE	1999999999	quform_session_6178e030aa3ec3c05574507914252000	XkmdskNEk8aqMTNra6TGyOTWhrE58aRRV4K829Z5
+
